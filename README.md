@@ -9,11 +9,10 @@ This project focuses on improving Kitchen Preparation Time (KPT) prediction to o
 - Build a prediction model
 
 ## Tools Used
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
+- excel
+- power BI
+- Power Query 
+
 
 ## Expected Outcome
 Better prediction accuracy for kitchen preparation time, leading to improved operational efficiency.# KPT-Prediction-Zomato
